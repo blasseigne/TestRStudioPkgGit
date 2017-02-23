@@ -9,7 +9,7 @@
 #' @examples
 #' sampleMe(1:10, 5)
 #' sampleMe(2:20, 4)
-#' sampleMe(3:12, 3)
+#' sampleMe(3:12, 4)
 # You can learn more about package authoring with RStudio at:
 #
 #   http://r-pkgs.had.co.nz/
